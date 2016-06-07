@@ -1,0 +1,4 @@
+app/code/local/Purpleweb/CatalogDescMore/sql/categoryattribute1465289254_setup/mysql4-install-0.1.0.php
+app/code/local/Purpleweb/CatalogDescMore/Helper/Data.php
+app/code/local/Purpleweb/CatalogDescMore/etc/config.xml
+app/etc/modules/Purpleweb_CatalogDescMore.xml
